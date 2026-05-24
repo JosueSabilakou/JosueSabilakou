@@ -32,4 +32,4 @@ Voici une sélection de mes projets techniques majeurs. Cliquez sur les liens po
 * **SecNumacadémie** (ANSSI - Agence nationale de la sécurité des systèmes d'information)
 * **Introduction to Cybersecurity** (Cisco Networking Academy)
 
-📬 **Me contacter :** josuesabilakou@gmail.com | [Mon LinkedIn](www.linkedin.com/in/josué-sabilakou-bb9993169)
+📬 **Me contacter :** josuesabilakou@gmail.com | [Mon LinkedIn](https://www.linkedin.com/in/josué-sabilakou-bb9993169)
